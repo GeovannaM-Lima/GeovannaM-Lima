@@ -13,9 +13,9 @@ Estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS);</strong> <br>
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeovannaM-Lima&show_icons=true&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeovannaM-Lima&show_icons=true)](https://github.com/GeovannaM-Lima/github-readme-stats&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaM-Lima&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaM-Lima&langs_count=8)
 
 
 ---
@@ -29,11 +29,8 @@ Estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS);</strong> <br>
 Sou estudante e iniciante na programação, focada em aprender na prática.  
 Uso este GitHub para acompanhar minha evolução, estudos e projetos.
 
----
+--
 
-## Objetivos  
-Criar projetos próprios;  
-Evoluir no desenvolvimento web
 
 
 </td>
@@ -53,7 +50,7 @@ Evoluir no desenvolvimento web
   <a href="mailto:geovannamargarid@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/https://www.instagram.com/geomargarida//">
+  <a href="https://www.instagram.com/geomargarida/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
