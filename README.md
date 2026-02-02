@@ -13,9 +13,9 @@ Estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS);</strong> <br>
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeovannaM-Lima&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaM-Lima&layout=compact&theme=dracula)
 
 
 ---
