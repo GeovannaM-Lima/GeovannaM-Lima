@@ -1,10 +1,56 @@
-<img src="https://i.pinimg.com/originals/24/67/49/246749aa1d9d2f9189c4b2007ee65da2.gif" width="350px" align="right">
+<h1 align="center"> Olá, eu sou a Geovanna!</h1>
 
-<h3> Olá, sou a Geovanna e tenho interesse em tecnologia 👻 </h3> <br>
+<div align="center">
+Estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS);</strong> <br>
+<em>Desenvolvedora em formação</em> 
+</div>
 
-<p> No momento eu estudo em busca do aprendizado contínuo em programação. </p>
+---
 
-<p align="left">
-  Em breve mais informações. Obrigada se leu até aqui! 
-</p>
-<img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" >
+<table>
+<tr>
+<td width="65%">
+
+## Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
+
+
+---
+
+## Tecnologias
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+---
+
+## SOBREMIM
+Sou estudante e iniciante na programação, focada em aprender na prática.  
+Uso este GitHub para acompanhar minha evolução, estudos e projetos.
+
+---
+
+## Objetivos  
+Criar projetos próprios;  
+Evoluir no desenvolvimento web
+
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://giffiles.alphacoders.com/171/171273.gif" width="300px" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## Contato
+- x: x
+
+
+✨ Obrigada por visitar meu perfil!
+
