@@ -13,15 +13,10 @@ Estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS);</strong> <br>
 
 ## Estatísticas do GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeovannaM-Lima&show_icons=true)](https://github.com/GeovannaM-Lima/github-readme-stats&show_icons=true)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=GeovannaM-Lima&show_icons=true&theme=dracula)](https://github.com/GeovannaM-Lima/github-readme-stats-fast&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaM-Lima&langs_count=8)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact)
 
-
----
-
-## Tecnologias
-<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 ---
 
